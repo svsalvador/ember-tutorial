@@ -38,5 +38,8 @@ bower_components
 dist
 tmp
 
+# Ember config
+config/environtment.js
+
 # Optional REPL history
 .node_repl_history
