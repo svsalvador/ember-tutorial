@@ -23,11 +23,11 @@ module.exports = function(environment) {
     },
 
     firebase: {
-      apiKey: 'AIzaSyDSRn2Jb8lSN2AH6tIZCtPDteiaFV_u2yg',
-      authDomain: 'ember-tutorial-7dcc0.firebaseapp.com',
-      databaseURL: 'https://ember-tutorial-7dcc0.firebaseio.com',
-      storageBucket: 'ember-tutorial-7dcc0.appspot.com',
-      messagingSenderId: '327937827455'
+      apiKey: 'api_key',
+      authDomain: 'app.firebaseapp.com',
+      databaseURL: 'https://app.firebaseio.com',
+      storageBucket: 'app.appspot.com',
+      messagingSenderId: 'app_message_sender_id'
     },
 
     // if using ember-cli-content-security-policy
